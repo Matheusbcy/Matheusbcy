@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Freitas
 
-- 🔭 Formado em Tecnologia em Mecatrônica Industrial
+- 🔭 Cursando Tecnologia em Mecatrônica Industrial
 - 📫 Contate-me email: matheusbcy@gmail.com
 - 😄 Pronouns: ele/dele
 
