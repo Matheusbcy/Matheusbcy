@@ -1,5 +1,6 @@
+ <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F97298&center=true&width=700&lines=Hi!+My+name+is+Matheus.+;I'm+Front-end+developer+Jr.;I'm+working+to+become+a+Full-Stack!;Welcome+to+my+Github!" alt="Typing SVG" /></a> </h1>
 
-<b>Hy! My name is Matheus Freitas.
+Hi! My name is Matheus Freitas.
  
 Desenvolvedor Front-end.
 
