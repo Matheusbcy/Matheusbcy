@@ -1,10 +1,10 @@
-## 👩 Hi!
+## 🧒 Hi!
 
-Eu sou Andressa Santos
+Eu sou Matheus Freitas
  
-Criadora de Conteúdo + Desenvolvedora
+Desenvolvedor Front-end.
 
-Formada em ADS | Segurança de Redes de Computadores.
+Cursando Tecnologia em Mecatrônica Industrial | Bootcamp Labenu Full-Stack
 
 Meu foco atualmente esta em Fullstack
 
