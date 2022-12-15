@@ -6,7 +6,7 @@ Desenvolvedor Front-end.
 
 Cursando Tecnologia em Mecatrônica Industrial | Bootcamp Labenu Full-Stack
 
-Meu foco atualmente esta em Fullstack
+Meu foco atualmente está em me tornar Fullstack.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
@@ -30,7 +30,7 @@ Meu foco atualmente esta em Fullstack
 <img align="center" alt="Matheus-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="center" alt="Matheus-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 <img align="center" alt="Matheus-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="center" alt="Matheus-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  
+<img align="center" alt="Matheus-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+<img align="center" alt="Matheus-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 
 </div>
