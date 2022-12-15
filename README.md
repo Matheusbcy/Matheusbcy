@@ -8,7 +8,7 @@ Cursando Tecnologia em Mecatrônica Industrial | Bootcamp Labenu Full-Stack
 
 Meu foco atualmente está em me tornar Fullstack.
 
-![](https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)
+![gif](https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
