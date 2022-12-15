@@ -8,6 +8,8 @@ Cursando Tecnologia em Mecatrônica Industrial | Bootcamp Labenu Full-Stack
 
 Meu foco atualmente está em me tornar Fullstack.
 
+<div class="tenor-gif-embed" data-postid="21481919" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919">Cat Typing GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&theme=tokyonight"/>
@@ -31,5 +33,4 @@ Meu foco atualmente está em me tornar Fullstack.
 <img align="center" alt="Matheus-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img align="center" alt="Matheus-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="center" alt="Matheus-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-
 </div>
