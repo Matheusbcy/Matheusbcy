@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/matheus-freitas-1651a918a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    </div>
   
-  <div align="center">
+  <div align="center" style="margin-bottom: 30px;">
 <a href="https://github.com/Matheusbcy">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&langs_count=7&theme=dracula"/>
   </div>
