@@ -18,7 +18,7 @@
       <div/> 
 </header>
 <div align="center">
-<h3>### ❤️ Let's get connected:</h3>
+<h3>❤️ Vamos nos conectar:</h3>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-freitas-1651a918a/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Matheusbcy)
@@ -26,7 +26,7 @@
      
 </div>
 <div align="center">
-<h3> Languages/Frameworks ⌛ <h3>
+<h3> LLinguagens/Frameworks ⌛ <h3>
 
 <img align="center" alt="Matheus-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="Matheus-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-<img src ="https://user-images.githubusercontent.com/102388553/191148026-00ff651a-c21c-4993-a9d3-92420b131c65.gif" width="700" height="400"/>
+<img src ="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="700" height="400"/>
 </div>   
 
 <footer>
