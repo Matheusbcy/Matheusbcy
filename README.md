@@ -38,3 +38,7 @@ Meu foco atualmente está em me tornar Fullstack.
 <h3> Tools 🔧 </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
 </div> 
+
+<div align="center">
+<img src ="https://user-images.githubusercontent.com/102388553/191148026-00ff651a-c21c-4993-a9d3-92420b131c65.gif" width="700" height="400"/>
+</div> 
