@@ -4,9 +4,9 @@ Oi! Me chamo Matheus Freitas.
  
 Desenvolvedor Front-end Jr
 
-🎓 Estudando de Tecnologia em Mecatrônica Industrial
+🎓 Estudante de Tecnologia em Mecatrônica Industrial
 
-🎓 Estudando do bootcamp da Labenu
+🎓 Estudante do bootcamp da Labenu
 
 Meu foco atualmente está em me tornar Fullstack.
 
