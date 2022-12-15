@@ -1,6 +1,5 @@
-## 🧒 Hi!
 
-Eu sou Matheus Freitas
+<b>Hy! My name is Matheus Freitas.
  
 Desenvolvedor Front-end.
 
