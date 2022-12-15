@@ -1,5 +1,5 @@
 <header>
-     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F97298&center=true&width=700&lines=Olá!+Meu+nome+é+Matheus.+;Eu sou+Desenvolvedor+Front-end+Jr.;I'm+working+to+become+a+Full-Stack!;Welcome+to+my+Github!" alt="Typing SVG" /></a> </h1>
+     <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=F97298&center=true&width=700&lines=Olá!+Meu+nome+é+Matheus.+;Eu sou+Desenvolvedor+Front-end+Jr.;Estou+Trabalhando+para+me tornar+Full-Stack!;Bem-vindo+ao+meu+Github!" alt="Typing SVG" /></a> </h1>
 <br>
      <div align="center"
   <p>
@@ -8,7 +8,7 @@
    </b>
   <br>
   <br>  
-  🔬 I'm currently studying for become a Full-Stack Developer.
+  🔬 Atualmente estou estudando para me tornar um Desenvolvedor Full-Stack.
   <br>
   🎓 Estudante de Tecnologia em Mecatrônica Industrial
   <br>
