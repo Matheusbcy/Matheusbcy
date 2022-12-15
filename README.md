@@ -10,7 +10,7 @@ Meu foco atualmente esta em Fullstack
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcys&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&theme=tokyonight"/>
 </div>
 
 ### ❤️ Let's get connected:
