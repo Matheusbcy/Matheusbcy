@@ -54,9 +54,9 @@
 <footer>
 <div align="center">
     <h2>My github stats ⚙</h2>
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&theme=tokyonight"/>
-</div>
+</div> -->
 </div>
     </footer>
