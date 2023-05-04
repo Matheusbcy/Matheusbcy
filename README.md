@@ -49,7 +49,7 @@
 <img src ="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="700" height="400"/>
 </div>   
 
-<footer>
+<!-- <footer>
 <div align="center">
 <h2>My github stats ⚙</h2>
 <div>
@@ -57,4 +57,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&theme=tokyonight"/>
 </div>
 </div>
-    </footer>
+    </footer> -->
