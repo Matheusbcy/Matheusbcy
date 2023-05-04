@@ -2,7 +2,7 @@
      <div align="center"
   <p>
   <b>Oi! Me chamo Matheus Freitas.
-    <br>Desenvolvedor Front-end Jr ⚛.
+    <br>Desenvolvedor Full Stack Jr ⚛.
    </b>
   <br>
   <br>  
