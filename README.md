@@ -1,60 +1,35 @@
-<header>
-     <div align="center"
-  <p>
-  <b>Oi! Me chamo Matheus Freitas.
-    <br>Desenvolvedor Full Stack Jr ⚛.
-   </b>
-  <br>
-  <br>  
-  🔬 Atualmente estou estudando para me tornar um Desenvolvedor Full-Stack.
-  <br>
-  🎓 Estudante de Tecnologia em Mecatrônica Industrial
-  <br>
-  🎓 Estudante do bootcamp da Labenu
-  <br>
-   </p>
-      <div/> 
-</header>
-<div align="center">
-<h3>❤️ Vamos nos conectar:</h3>
+# 👋 Olá, eu sou Matheus
 
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-freitas-1651a918a/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Matheusbcy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_ss13/)
-     
-</div>
-<div align="center">
-<h3> Linguagens/Frameworks ⌛ <h3>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada na área de **Ciência de Dados**, **Machine Learning** e **Inteligência Artificial**.
 
-<img align="center" alt="Matheus-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="Matheus-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Matheus-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Matheus-react-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img align="center" alt="Matheus-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="center" alt="Matheus-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-<img align="center" alt="Matheus-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img align="center" alt="Matheus-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="center" alt="Matheus-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
- 
-</div>
-<div align="center"
-<h3> Tools 🔧 </h3> 
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" />
-</div> 
-<br>
+🔍 Interessado em transformar dados em informações úteis por meio de análise, modelagem preditiva e automação com algoritmos inteligentes.
 
-<div align="center">
-<img src ="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="700" height="400"/>
-</div>   
+## 💻 Tecnologias e Ferramentas
 
-<!-- <footer>
-<div align="center">
-<h2>My github stats ⚙</h2>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&theme=tokyonight"/>
-</div>
-</div>
-    </footer> -->
+- **Linguagens:** Python, SQL  
+- **Bibliotecas:** Pandas, NumPy, Matplotlib, Scikit-learn  
+- **Ferramentas:** Jupyter Notebook, VS Code, Git  
+- **Em aprendizado:** Machine Learning, Visualização de Dados, Engenharia de Dados
+
+## 📊 O que estou estudando agora
+
+- Manipulação e análise de dados com Pandas  
+- Algoritmos de Machine Learning (supervisionado e não supervisionado)  
+- Projetos práticos com Python e dados reais  
+- Visualização com Matplotlib e Seaborn
+
+## 🚀 Projetos em destaque
+
+Em breve, estarei compartilhando projetos próprios com foco em:
+- Análise de dados de conjuntos públicos
+- Modelos de machine learning aplicados a problemas reais
+- Visualizações interativas
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario-linkedin/)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@email.com)
+
+---
+
+📌 Este repositório serve como minha **homepage no GitHub**. Sinta-se à vontade para explorar meus projetos, dar sugestões ou entrar em contato!
