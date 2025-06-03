@@ -39,15 +39,8 @@
 - Manipulação e limpeza de dados com Pandas e NumPy  
 - Visualização com Matplotlib e Seaborn  
 - Machine Learning básico com Scikit-learn  
-- Projetos com dados reais e notebooks interativos  
-
----
-
-### 📌 Em breve
-
-- [ ] Projeto de análise exploratória com dados públicos  
-- [ ] Classificador de textos com NLP básico  
-- [ ] Visualização interativa com Plotly  
+- Projetos com dados reais e notebooks interativos
+- Google Vertex AI, Data Robot AI, Obviously AI, Big ML, Microsoft Azure e Orange
 
 ---
 
