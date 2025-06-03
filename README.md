@@ -1,35 +1,70 @@
-# 👋 Olá, eu sou Matheus
+<h1 align="center">👋 Olá, eu sou o Matheus</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, iniciando minha jornada na área de **Ciência de Dados**, **Machine Learning** e **Inteligência Artificial**.
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250" alt="Data gif">
+</p>
 
-🔍 Interessado em transformar dados em informações úteis por meio de análise, modelagem preditiva e automação com algoritmos inteligentes.
-
-## 💻 Tecnologias e Ferramentas
-
-- **Linguagens:** Python, SQL  
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, Scikit-learn  
-- **Ferramentas:** Jupyter Notebook, VS Code, Git  
-- **Em aprendizado:** Machine Learning, Visualização de Dados, Engenharia de Dados
-
-## 📊 O que estou estudando agora
-
-- Manipulação e análise de dados com Pandas  
-- Algoritmos de Machine Learning (supervisionado e não supervisionado)  
-- Projetos práticos com Python e dados reais  
-- Visualização com Matplotlib e Seaborn
-
-## 🚀 Projetos em destaque
-
-Em breve, estarei compartilhando projetos próprios com foco em:
-- Análise de dados de conjuntos públicos
-- Modelos de machine learning aplicados a problemas reais
-- Visualizações interativas
-
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/seu-usuario-linkedin/)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:seuemail@email.com)
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas | Iniciando em <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
+</p>
 
 ---
 
-📌 Este repositório serve como minha **homepage no GitHub**. Sinta-se à vontade para explorar meus projetos, dar sugestões ou entrar em contato!
+### 🚀 Sobre mim
+
+- 🎓 Em formação na área de Análise e Desenvolvimento de Sistemas  
+- 📊 Focado em aprender e aplicar técnicas de **Ciência de Dados** e **ML**  
+- 💡 Curioso sobre como os dados ajudam a resolver problemas reais  
+- 👨‍💻 Desenvolvendo projetos próprios para praticar e compartilhar conhecimento  
+
+---
+
+### 💻 Tecnologias e Ferramentas
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+
+</div>
+
+---
+
+### 📊 Atualmente estudando
+
+- Manipulação e limpeza de dados com Pandas e NumPy  
+- Visualização com Matplotlib e Seaborn  
+- Machine Learning básico com Scikit-learn  
+- Projetos com dados reais e notebooks interativos  
+
+---
+
+### 📌 Em breve
+
+- [ ] Projeto de análise exploratória com dados públicos  
+- [ ] Classificador de textos com NLP básico  
+- [ ] Visualização interativa com Plotly  
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matfreitas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matheusbcy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! ⭐️
+</p>
