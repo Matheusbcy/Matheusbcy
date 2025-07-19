@@ -4,8 +4,6 @@
   Estudante de Análise e Desenvolvimento de Sistemas | Explorando <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
 </p>
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgithub&show_icons=true&theme=radical)
-
 ---
 
 ### 🚀 Sobre mim
