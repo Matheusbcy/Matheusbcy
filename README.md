@@ -1,10 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Matheus</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lrbTRhZ2U1NDlyNGxmM3R3ZjNleTBkdG12MXMwbWRnNmo1Z2R1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="250" alt="Data gif">
-</p>
-
-<p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas | Explorando <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
 </p>
 
@@ -17,6 +13,16 @@
 - 🤖 Focado em aplicar conceitos de Machine Learning e NLP em projetos práticos  
 - 💼 Construindo projetos para meu portfólio e aprendendo com desafios reais  
 - 📚 Sempre aprendendo novas ferramentas, bibliotecas e plataformas
+
+---
+
+### 📌 Projetos em Destaque
+
+| Projeto | Descrição |
+|--------|-----------|
+| [🔍 Análise de Sentimentos no Twitter](https://github.com/seuusuario/analise-sentimentos-twitter) | Classificador de sentimentos em tweets usando NLP com spaCy |
+| [🧠 Classificação com Machine Learning: Previsão de Diabetes](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/Machine%20Learning/Projetos/Classifica%C3%A7%C3%A3o) | Prever o diagnóstico de diabetes em pacientes com base em características médicas |
+| [📦 Detecção de Outliers](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/Machine%20Learning/Detec%C3%A7%C3%A3o%20de%20outliers) | Identificação de dados fora do padrão usando KNN e estatísticas |
 
 ---
 
@@ -44,7 +50,7 @@
 - Detecção de outliers, classificação, regressão e agrupamento  
 - NLP com **spaCy**  
 - Séries temporais com **ARIMA** e **Prophet**  
-- Plataformas de IA: Google Vertex AI, Microsoft Azure, Orange, DataRobot AI, BigML
+- LLMs com **LangChain**
 
 ---
 
