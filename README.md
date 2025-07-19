@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas | Iniciando em <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
+  Estudante de Análise e Desenvolvimento de Sistemas | Explorando <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Em formação na área de Análise e Desenvolvimento de Sistemas  
-- 📊 Focado em aprender e aplicar técnicas de **Ciência de Dados** e **ML**  
-- 💡 Curioso sobre como os dados ajudam a resolver problemas reais  
-- 👨‍💻 Desenvolvendo projetos próprios para praticar e compartilhar conhecimento  
+- 🎓 Em formação em Análise e Desenvolvimento de Sistemas  
+- 📊 Apaixonado por dados e por resolver problemas com tecnologia  
+- 🤖 Focado em aplicar conceitos de Machine Learning e NLP em projetos práticos  
+- 💼 Construindo projetos para meu portfólio e aprendendo com desafios reais  
+- 📚 Sempre aprendendo novas ferramentas, bibliotecas e plataformas
 
 ---
 
@@ -27,20 +28,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" alt="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" alt="Jupyter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 
 </div>
 
 ---
 
-### 📊 Atualmente estudando
+### 📈 Atualmente estudando
 
-- Manipulação e limpeza de dados com Pandas e NumPy  
-- Visualização com Matplotlib e Seaborn  
-- Machine Learning básico com Scikit-learn  
-- Projetos com dados reais e notebooks interativos
-- Google Vertex AI, Data Robot AI, Obviously AI, Big ML, Microsoft Azure e Orange
+- Manipulação de dados com **Pandas** e **NumPy**  
+- Visualização de dados com **Matplotlib** e **Seaborn**  
+- Modelos de Machine Learning com **Scikit-learn**  
+- Redução de dimensionalidade (PCA, LDA, KernelPCA)  
+- Detecção de outliers, classificação, regressão e agrupamento  
+- NLP com **spaCy**  
+- Séries temporais com **ARIMA** e **Prophet**  
+- Plataformas de IA: Google Vertex AI, Microsoft Azure, Orange, DataRobot AI, BigML
 
 ---
 
@@ -58,5 +62,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! ⭐️
+  Obrigado por visitar meu perfil! ⭐
 </p>
