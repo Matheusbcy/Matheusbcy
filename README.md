@@ -4,6 +4,8 @@
   Estudante de Análise e Desenvolvimento de Sistemas | Explorando <strong>Ciência de Dados</strong>, <strong>Machine Learning</strong> e <strong>Inteligência Artificial</strong>
 </p>
 
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgithub&show_icons=true&theme=radical)
+
 ---
 
 ### 🚀 Sobre mim
@@ -13,6 +15,13 @@
 - 🤖 Focado em aplicar conceitos de Machine Learning e NLP em projetos práticos  
 - 💼 Construindo projetos para meu portfólio e aprendendo com desafios reais  
 - 📚 Sempre aprendendo novas ferramentas, bibliotecas e plataformas
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
 
