@@ -38,23 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  
-  <!-- Bibliotecas de Visualização -->
-  <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="40" alt="Matplotlib"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" alt="Seaborn" style="margin-top: 10px"/>
-
-  <!-- Machine Learning / IA -->
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" alt="Scikit-learn"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Scikit_learn_logo_small.svg" width="40" alt="Scikit-learn (alt)"/>
-  <img src="https://spaCy.io/static/img/logo.svg" width="40" alt="spaCy"/>
-  <img src="https://avatars.githubusercontent.com/u/16275579?s=200&v=4" width="40" alt="Prophet"/>
-
-  <!-- BI e Cloud -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" alt="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_Logo.svg" width="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
 
 </div>
 
