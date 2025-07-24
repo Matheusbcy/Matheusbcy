@@ -14,13 +14,6 @@
 - 💼 Construindo projetos para meu portfólio e aprendendo com desafios reais  
 - 📚 Sempre aprendendo novas ferramentas, bibliotecas e plataformas
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheusbcy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbcy&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
 ---
 
 ### 📌 Projetos em Destaque
