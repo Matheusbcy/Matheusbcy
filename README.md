@@ -23,6 +23,8 @@
 | [🔍 Análise de Sentimentos no Twitter](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/NLP%20-%20Natural%20Language%20Processing/Tweet_Emotion) | Classificador de sentimentos em tweets usando NLP com spaCy |
 | [🧠 Classificação com Machine Learning: Previsão de Diabetes](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/Machine%20Learning/Projetos/Classifica%C3%A7%C3%A3o) | Prever o diagnóstico de diabetes em pacientes com base em características médicas |
 | [📦 Detecção de Outliers](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/Machine%20Learning/Detec%C3%A7%C3%A3o%20de%20outliers) | Identificação de dados fora do padrão usando KNN e estatísticas |
+| [📺 Transcrição e Compreensão de Vídeos com LLMs](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/LLMs/Compreens%C3%A3o_Video) | Transcrever vídeos do YouTube e utilizar modelos de linguagem (LLMs) |
+| [🤖 Seu Assistente Virtual](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/LLMs/Chatbot_Memoria_Interface) | Aplicação web desenvolvida com Streamlit e integrada a modelos de linguagem (LLMs) |
 
 ---
 
