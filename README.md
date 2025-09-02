@@ -24,6 +24,7 @@
 | [📚 Converse com Documentos](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/LLMs/CDocs) | Assistente virtual construído com Streamlit e LLMs |
 | [📺 Transcrição e Compreensão de Vídeos com LLMs](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/LLMs/Compreens%C3%A3o_Video) | Transcrever vídeos do YouTube e utilizar modelos de linguagem (LLMs) |
 | [🤖 Seu Assistente Virtual](https://github.com/Matheusbcy/-Data-Science-IA-/tree/main/LLMs/Chatbot_Memoria_Interface) | Aplicação web desenvolvida com Streamlit e integrada a modelos de linguagem (LLMs) |
+| [🤖 Análise e Predição IMDB](https://github.com/Matheusbcy/indicium-teste-tecnico) | Este projeto realiza análise exploratória de dados (EDA) e predição da nota IMDB de filmes |
 
 ---
 
